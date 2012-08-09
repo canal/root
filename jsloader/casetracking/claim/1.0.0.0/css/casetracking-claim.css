@@ -34,45 +34,45 @@
 }
 
 .addClaimButton {
-		background: url(../img/btn_add.claim.gif) 0 0px no-repeat !important;
-		width:102px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_add.claim.gif) 0 0px no-repeat !important;
+	width:102px;
+	height:28px;
+	display:block;
 }
 
 .addClaimsButton {
-		background: url(../img/btn_add.claims.gif) 0 0px no-repeat !important;
-		width:102px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_add.claims.gif) 0 0px no-repeat !important;
+	width:102px;
+	height:28px;
+	display:block;
 }
 
 .deleteClaimsButton {
-		background: url(../img/btn_delete.claims.gif) 0 0px no-repeat !important;
-		width:128px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_delete.claims.gif) 0 0px no-repeat !important;
+	width:128px;
+	height:28px;
+	display:block;
 }
 
 .findMoreClaimsButton {
-		background: url(../img/btn_find..more.claims.gif) 0 0px no-repeat !important;
-		width:148px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_find..more.claims.gif) 0 0px no-repeat !important;
+	width:148px;
+	height:28px;
+	display:block;
 }
 
 .findClaimButton {
-		background: url(../img/btn_find.claim.gif) 0 0px no-repeat !important;
-		width:114px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_find.claim.gif) 0 0px no-repeat !important;
+	width:114px;
+	height:28px;
+	display:block;
 }
 
 .findClaimsButton {
-		background: url(../img/btn_find.claims.gif) 0 0px no-repeat !important;
-		width:114px;
-		height:28px;
-		display:block;
+	background: url(../img/btn_find.claims.gif) 0 0px no-repeat !important;
+	width:114px;
+	height:28px;
+	display:block;
 }
 
 .table { border : 0pt solid black;  padding:3px;}
