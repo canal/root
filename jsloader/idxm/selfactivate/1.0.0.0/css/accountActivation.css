@@ -1,0 +1,98 @@
+/* Overriding Ext */
+.x-form-check-wrap {
+	height:10px;
+	line-height:18px;	
+}
+
+/* Header Step */
+.idxm-activate-text {
+	color:#000000;
+	font: 14px verdana,tahoma,arial,sans-serif;	
+}
+
+.idxm-activate-text-bold {
+	color:#000000;
+	font: bold 14px verdana,tahoma,arial,sans-serif;	
+}
+
+.idm-active-step-table {
+	border:2px solid #999999;
+	border-collapse: collapse;
+	background-color:#EFEFEF;
+}
+
+.idxm-active-step-text {
+	color:#000000;
+	font: 30px verdana,tahoma,arial,sans-serif;
+}
+
+.idxm-active-step-subtitle {
+	color:#000000;
+	font: 14px verdana,tahoma,arial,sans-serif;	
+}
+
+.idm-inactive-step-table {
+	border:2px solid #999999;
+	border-collapse: collapse;
+	background-color:#FFFFFF;
+}
+
+.idxm-inactive-step-text {
+	color:#999999;
+	font: 30px verdana,tahoma,arial,sans-serif;
+}
+
+.idxm-inactive-step-subtitle {
+	color:#999999;
+	font: 14px verdana,tahoma,arial,sans-serif;	
+}
+
+.idm-inLactive-step-table {
+	border:2px solid #999999;
+	border-collapse: collapse;
+	background-color:#FFFFFF;
+}
+
+.idm-inLactive-step-table tr:hover {
+	border:2px solid #999999;
+	border-collapse: collapse;
+	background-color:#EFEFEF;
+	cursor:pointer;
+}
+
+.idxm-inLactive-step-text {
+	color:#999999;
+	font: 30px verdana,tahoma,arial,sans-serif;
+}
+
+.idxm-inLactive-step-subtitle {
+	color:#999999;
+	font: 14px verdana,tahoma,arial,sans-serif;	
+}
+
+
+.idxm-step-divider {
+	color:#000000;
+	font: 18px verdana,tahoma,arial,sans-serif;	
+}
+
+/* Is This you */
+.idxm-confirm-identity-IsThisYou {
+	background-color:#FFFFCC;
+	background:#FFFFCC;
+	font: 18px verdana,tahoma,arial,sans-serif;
+	line-height:30px;
+}
+
+.idxm-confirm-identity-IsThisYou-fieldLabel {
+	font: 14px verdana,tahoma,arial,sans-serif;
+}
+
+.idxm-confirm-identity-IsThisYou-fieldValue {
+	font: 18px verdana,tahoma,arial,sans-serif;
+}	
+
+/* Confirmation Page */
+.idxm-confirm-identity-confirmation {
+	font: 18px verdana,tahoma,arial,sans-serif;
+}
