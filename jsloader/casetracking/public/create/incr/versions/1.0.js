@@ -1,0 +1,2 @@
+JSLoader.setEnv("CASETRACKING_PUBLIC_PATH",JSLoader.makePath("casetracking","public/create","1.0.0.0"));
+JSLoader.loadJavaScript(JSLoader.getEnv("CASETRACKING_PUBLIC_PATH")+"casetracking-public-create-all-min.js");

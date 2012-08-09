@@ -1,0 +1,2 @@
+JSLoader.setEnv("CASETRACKING_REPORTS_PATH",JSLoader.makePath("casetracking","reports","1.0.0.0"));
+JSLoader.loadJavaScript(JSLoader.getEnv("CASETRACKING_REPORTS_PATH")+"casetracking-reports-all-min.js");

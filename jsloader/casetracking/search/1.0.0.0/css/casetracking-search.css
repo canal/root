@@ -1,0 +1,56 @@
+.idxm-search-filter-fields-body {
+  border: 0px none;
+  background-color:#eeeeee;
+  padding-left:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.idxm-search-filter-datefields-body {
+  border: 0px none;
+  background-color:#eeeeee;
+}
+
+.idxm-search-results-content {
+  font-family: arial;
+  font-size:18px;
+  font-weight: bold;
+}
+
+.idxm-search-spiffy{display:block}
+.idxm-search-spiffy *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+  background:#FFF58A}
+.idxm-search-spiffy1{
+  margin-left:3px;
+  margin-right:3px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #fffacc;
+  border-right:1px solid #fffacc;
+  background:#fff7a7}
+.idxm-search-spiffy2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #fffef3;
+  border-right:1px solid #fffef3;
+  background:#fff6a0}
+.idxm-search-spiffy3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #fff6a0;
+  border-right:1px solid #fff6a0;}
+.idxm-search-spiffy4{
+  border-left:1px solid #fffacc;
+  border-right:1px solid #fffacc}
+.idxm-search-spiffy5{
+  border-left:1px solid #fff7a7;
+  border-right:1px solid #fff7a7}
+.idxm-search-spiffyfg{
+  background:#FFF58A}
+
